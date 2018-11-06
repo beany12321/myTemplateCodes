@@ -2,8 +2,8 @@
 #hideAndSeek {
   border: solid black 2px;
   text-align: center;
-  display: flex-block;
-  font-size: 100px
+  display: none;
+  font-size: 36px;
 }
 
 @media only screen and (max-width: 600px) {
