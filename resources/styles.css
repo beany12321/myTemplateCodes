@@ -1,8 +1,12 @@
+html {
+  font-size: 10px;
+}
+
 /* Hide an Element */
 #hideAndSeek {
   border: solid black 2px;
   text-align: center;
-  display: none;
+  display: flex;
   font-size: 36px;
 }
 
