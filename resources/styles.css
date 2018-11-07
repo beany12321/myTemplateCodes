@@ -21,6 +21,7 @@ html {
     font-size: 16px;
 
     /* Code added to allow mobile browsers to respond approriately */
+    -webkit-display: flex;
     display: -ms-flexbox;
     display: flex;
     -ms-flex-pack: distribute;
