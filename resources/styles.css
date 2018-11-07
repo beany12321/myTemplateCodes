@@ -14,7 +14,7 @@ html {
 
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
   #hideAndSeek {
     display: flex;
     justify-content: center;
