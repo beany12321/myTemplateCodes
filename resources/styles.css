@@ -11,13 +11,7 @@ html {
 
 
   -webkit-display: none;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-pack: distribute;
-      justify-content: space-around;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+
 }
 
 @media only screen and (max-width: 400px) {
